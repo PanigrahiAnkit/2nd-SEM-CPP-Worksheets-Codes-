@@ -1,0 +1,1 @@
+WAP to copy the contents of one file to another and display it on output screen
